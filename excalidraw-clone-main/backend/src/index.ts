@@ -1,6 +1,10 @@
 import http from 'http';
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
+
+const cors = require("cors");
+
+
 import { createExpressApp } from './http/server';
 import { attachWebSocketServer } from './ws/index';
 
@@ -15,6 +19,7 @@ async function startServer() {
     console.log('✅ Connected to MongoDB');
 
     const app = createExpressApp();
+    app.use(cors());
     const server = http.createServer(app);
 
     attachWebSocketServer(server);
