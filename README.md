@@ -22,7 +22,7 @@ Excalidraw is your go-to collaborative whiteboarding app, designed to bring your
 
 ---
 
-## 🚀 Get Started Today!
+##  Get Started Today!
 
 Ready to unleash your creativity? Dive into Excalidraw and start collaborating!
 
