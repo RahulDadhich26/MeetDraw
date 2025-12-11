@@ -3,8 +3,6 @@
 
 Excalidraw is your go-to collaborative whiteboarding app, designed to bring your ideas to life on a **shared, interactive canvas** in real-time! Whether you're brainstorming with friends, sketching out concepts, or simply having fun, Excalidraw provides a seamless and intuitive space for creativity.
 
----
-
 ## ✨ Features That Spark Creativity:
 
 * **Real-time Collaboration:** Sign up, create or join a room, and start ideating instantly with your friends. Watch ideas unfold together, no matter where you are!
