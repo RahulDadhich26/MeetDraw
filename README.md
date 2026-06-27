@@ -1,5 +1,5 @@
 
-# Welcome to Excalidraw! 👋
+# Welcome to Meetdraw! 👋
 
 Excalidraw is your go-to collaborative whiteboarding app, designed to bring your ideas to life on a **shared, interactive canvas** in real-time! Whether you're brainstorming with friends, sketching out concepts, or simply having fun, Excalidraw provides a seamless and intuitive space for creativity.
 
